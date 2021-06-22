@@ -1,0 +1,15 @@
+﻿{
+  Id: Guid_1,
+  Title: Title.Mr,
+  GivenNames: John,
+  FamilyName: Smith,
+  Spouse: Jill,
+  Children: [
+    Sam,
+    Mary
+  ],
+  Address: {
+    Street: 4 Puddle Lane,
+    Country: USA
+  }
+}
